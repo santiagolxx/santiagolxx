@@ -1,6 +1,3 @@
-# @santiagolxx
-**Backend Developer**
-
 ## Technical Stack
 
 ### **Languages & Frameworks**
