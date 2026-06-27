@@ -6,7 +6,7 @@
 ![Git](https://a11ybadges.com/badge?logo=git) ![Docker](https://a11ybadges.com/badge?logo=docker) ![Linux](https://a11ybadges.com/badge?logo=linux)
 
 ### **Frontend**
-![React](https://a11ybadges.com/badge?logo=react) ![Vue.js](https://a11ybadges.com/badge?logo=vuedotjs) ![Svelte](https://a11ybadges.com/badge?logo=svelte)
+![Vue.js](https://a11ybadges.com/badge?logo=vuedotjs) ![Svelte](https://a11ybadges.com/badge?logo=svelte)
 
 ### **Database Systems**
 ![MariaDB](https://a11ybadges.com/badge?logo=mariadb) ![MongoDB](https://a11ybadges.com/badge?logo=mongodb)
